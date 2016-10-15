@@ -1,0 +1,18 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{Most starred npm packages}}{2}{table.8}
+\contentsline {table}{\numberline {2.2}{Most depended-upon packages}}{4}{table.9}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{I/O-application dependencies}}{6}{table.14}
+\contentsline {table}{\numberline {3.2}{CPU-application dependencies}}{7}{table.19}
+\contentsline {table}{\numberline {3.3}{Ghost dependencies}}{9}{table.24}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{Web Application Wrapper dependencies}}{13}{table.31}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{Ghost results looped}}{24}{table.93}
+\contentsline {table}{\numberline {5.2}{Ghost results multi-threaded}}{25}{table.99}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

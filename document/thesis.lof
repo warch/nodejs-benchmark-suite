@@ -1,0 +1,22 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Results view of I/O-application when executed synchronously}}{19}{figure.68}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Aggregate Graph of I/O-application when executed synchronously}}{19}{figure.70}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Results view of I/O-application when executed parallel}}{20}{figure.73}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Aggregate Graph of I/O-application when executed parallel}}{20}{figure.75}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Results view of CPU-application when executed synchronously}}{21}{figure.79}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Aggregate Graph of CPU-application when executed synchronously}}{21}{figure.81}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Results view of CPU-application when executed parallel}}{22}{figure.84}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Aggregate Graph of CPU-application when executed parallel}}{22}{figure.86}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Results view of ghost when executed synchronously}}{23}{figure.90}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Report of ghost when executed synchronously}}{23}{figure.92}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Results view of ghost when executed parallel}}{24}{figure.96}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Report of ghost when executed parallel}}{25}{figure.98}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

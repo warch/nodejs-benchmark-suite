@@ -1,0 +1,45 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.4}
+\contentsline {chapter}{\numberline {2}Node.js Ecosystem}{2}{chapter.5}
+\contentsline {section}{\numberline {2.1}Packages}{2}{section.6}
+\contentsline {subsection}{\numberline {2.1.1}Popular Packages}{2}{subsection.7}
+\contentsline {chapter}{\numberline {3}Benchmark Applications}{5}{chapter.10}
+\contentsline {section}{\numberline {3.1}I/O-Application}{5}{section.11}
+\contentsline {subsection}{\numberline {3.1.1}Usage}{5}{subsection.12}
+\contentsline {subsection}{\numberline {3.1.2}Used Packages}{6}{subsection.13}
+\contentsline {subsection}{\numberline {3.1.3}Known Issues}{6}{subsection.15}
+\contentsline {section}{\numberline {3.2}CPU-Application}{7}{section.16}
+\contentsline {subsection}{\numberline {3.2.1}Usage}{7}{subsection.17}
+\contentsline {subsection}{\numberline {3.2.2}Used Packages}{7}{subsection.18}
+\contentsline {subsection}{\numberline {3.2.3}Known Issues}{8}{subsection.20}
+\contentsline {section}{\numberline {3.3}Web Application}{8}{section.21}
+\contentsline {subsection}{\numberline {3.3.1}Usage}{8}{subsection.22}
+\contentsline {subsection}{\numberline {3.3.2}Used Packages}{9}{subsection.23}
+\contentsline {subsection}{\numberline {3.3.3}Known Issues}{10}{subsection.25}
+\contentsline {chapter}{\numberline {4}Benchmark System}{11}{chapter.26}
+\contentsline {section}{\numberline {4.1}Apache JMeter}{11}{section.27}
+\contentsline {section}{\numberline {4.2}Web Application Wrapper}{11}{section.28}
+\contentsline {subsection}{\numberline {4.2.1}Usage}{12}{subsection.29}
+\contentsline {subsection}{\numberline {4.2.2}Used Packages}{12}{subsection.30}
+\contentsline {section}{\numberline {4.3}Sample Files}{13}{section.32}
+\contentsline {section}{\numberline {4.4}Benchmarks}{13}{section.33}
+\contentsline {subsection}{\numberline {4.4.1}I/O-Application}{13}{subsection.34}
+\contentsline {subsection}{\numberline {4.4.2}CPU-Application}{14}{subsection.35}
+\contentsline {subsection}{\numberline {4.4.3}Web Application}{14}{subsection.36}
+\contentsline {section}{\numberline {4.5}Utility Script}{15}{section.44}
+\contentsline {subsection}{\numberline {4.5.1}Usage}{17}{subsection.62}
+\contentsline {chapter}{\numberline {5}Results}{18}{chapter.63}
+\contentsline {section}{\numberline {5.1}Test Setup}{18}{section.64}
+\contentsline {section}{\numberline {5.2}I/O-Application}{18}{section.65}
+\contentsline {subsection}{\numberline {5.2.1}Looped}{19}{subsection.66}
+\contentsline {subsection}{\numberline {5.2.2}Multi-threaded}{20}{subsection.71}
+\contentsline {section}{\numberline {5.3}CPU-Application}{21}{section.76}
+\contentsline {subsection}{\numberline {5.3.1}Looped}{21}{subsection.77}
+\contentsline {subsection}{\numberline {5.3.2}Multi-threaded}{22}{subsection.82}
+\contentsline {section}{\numberline {5.4}Web Application}{23}{section.87}
+\contentsline {subsection}{\numberline {5.4.1}Looped}{23}{subsection.88}
+\contentsline {subsection}{\numberline {5.4.2}Multi-threaded}{24}{subsection.94}
+\contentsline {chapter}{\numberline {6}Related Work}{26}{chapter.100}
+\contentsline {chapter}{\numberline {7}Future Work}{27}{chapter.103}
+\contentsline {chapter}{\numberline {8}Conclusion}{28}{chapter.104}
+\contentsline {chapter}{\nonumberline Bibliography}{31}{chapter*.107}

@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+
+\bibitem{jmeter}
+Apache jmeter.
+\newblock \url{http://jmeter.apache.org/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{colors}
+colors package.
+\newblock \url{https://www.npmjs.com/package/colors/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{commander}
+commander package.
+\newblock \url{https://www.npmjs.com/package/commander/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{crypto}
+crypto package.
+\newblock \url{https://www.npmjs.com/package/crypto/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{fs-extra}
+fs-extra package.
+\newblock \url{https://www.npmjs.com/package/fs-extra/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{fstream}
+fstream package.
+\newblock \url{https://www.npmjs.com/package/fstream/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ghost-module}
+Ghost as module.
+\newblock
+  \url{https://github.com/TryGhost/Ghost/wiki/Using-Ghost-as-an-npm-module/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ghost-cluster}
+Ghost cluster example.
+\newblock \url{http://blog.fabianbecker.eu/scale-ghost-to-the-next-level/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ghost-git}
+Ghost github repository.
+\newblock \url{https://github.com/TryGhost/Ghost/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ghost}
+Ghost homepage.
+\newblock \url{https://ghost.org/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ghost-npm}
+ghost package.
+\newblock \url{https://www.npmjs.com/package/ghost/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{graal}
+Graal overview.
+\newblock
+  \url{http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index-2301583.html}.
+\newblock Accessed: 2016-10-15.
+
+\bibitem{mkdirp}
+mkdirp package.
+\newblock \url{https://www.npmjs.com/package/mkdirp/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{ncp}
+ncp package.
+\newblock \url{https://www.npmjs.com/package/ncp/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{nodejs-about}
+Node.js about.
+\newblock \url{https://nodejs.org/en/about/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{nodejs-childprocess}
+Node.js child process api.
+\newblock
+  \url{https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{nodejs-cluster}
+Node.js cluster module.
+\newblock \url{https://nodejs.org/api/cluster.html}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{nodejs}
+Node.js homepage.
+\newblock \url{https://nodejs.org/en/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{npm-depended}
+Npm most depended-upon packages.
+\newblock \url{https://www.npmjs.com/browse/depended/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{npm-starred}
+Npm most starred packages.
+\newblock \url{https://www.npmjs.com/browse/star/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{path}
+path package.
+\newblock \url{https://www.npmjs.com/package/path/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{tar}
+tar package.
+\newblock \url{https://www.npmjs.com/package/tar/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{verror}
+verror package.
+\newblock \url{https://www.npmjs.com/package/verror/}.
+\newblock Accessed: 2016-10-12.
+
+\bibitem{npm-about}
+What is npm.
+\newblock \url{https://docs.npmjs.com/getting-started/what-is-npm/}.
+\newblock Accessed: 2016-10-12.
+
+\end{thebibliography}
